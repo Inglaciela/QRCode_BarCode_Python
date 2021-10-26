@@ -1,1 +1,1 @@
-# QRCode_BarCode_Python
+# QRCode BarCode com Python
